@@ -1,0 +1,44 @@
+header{
+    background-color: darkcyan;
+    color: black;
+    width: 800px;
+}
+img{
+    width: 500px;
+}
+section{
+    width: 240px;
+}
+.dog{
+    background-color: red;
+    color: royalblue;
+}
+.cat{
+    color: salmon;
+    background-color: seagreen;
+}
+.tortuga{
+    color: skyblue;
+    background-color: slategrey;
+}
+p{
+    color:1px solid black;
+    padding-left: 20%;
+    text-align: justify;
+    width: 400px;
+    background-color: snow;
+}
+section p{
+    background-color: steelblue;
+    width:400;
+}
+nav a{
+    text-align: center;
+    color: slateblue;
+}
+footer{
+    text-align:left;
+    padding-left: 30%;
+    background-color: slategrey;
+    width: 50%;
+}
