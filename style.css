@@ -1,3 +1,22 @@
+.navegador{
+    background-color: black;
+    display: block;
+    text-align: center;
+        margin: 0px 200px;
+    
+    
+}
+
+.navegador ul li{
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+}
+.navegador ul li a{
+    text-decoration: none;
+    color:white;
+    
+}
 header{
     background-color: darkcyan;
     color: black;
